@@ -1,0 +1,48 @@
+h1{
+    color: rgb(238, 255, 0); 
+    font-size: 250%;
+    margin: 0% 0% 10% 10%;
+    
+}   
+body{
+    background-image: url(../imagem/din0.jpeg);
+    background-repeat: no-repeat;
+    background-position: 350px;
+    background-size: 45%;
+    background-color: #0c80a3;
+    margin-bottom: 0px
+}
+     
+a{
+    color: #0d0e0d;   
+}
+  @keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.botao {
+    background-color: #f00505;
+    padding: 8vw 8vw;
+    font-size: 4vw;
+    height: 1vh;
+    text-decoration: none;
+    margin: 0% 0% 0% 10%; 
+    line-height: 0.2;
+    animation: blink 2s infinite;
+}
+
+  
+  
+
+
+
+  
+  
+
+
+  
+ 
+  
+  
